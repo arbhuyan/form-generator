@@ -1,8 +1,8 @@
-## Simple form generator
+# Simple form generator
 
 Simple form generator using php oop. you can easily generate a form just passing an array.
 
-# How to use it
+## How to use it
 
 At first you need to add form-generator.php to your project file, like:
 
@@ -55,4 +55,4 @@ After making your array call create_form(); function and pass newly created arra
 create_form($new_form_field);
 ```
 
-# Thank You
+## Thank You
