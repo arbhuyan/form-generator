@@ -52,7 +52,7 @@ $new_form_field = [
 After making your array call create_form(); function and pass newly created array as argument to generate your form fields. like:
 
 ```
-create_form($new_form_field);
+echo create_form($new_form_field);
 ```
 
 ## Thank You
