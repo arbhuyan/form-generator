@@ -1,3 +1,49 @@
 /*
 	Css Stylesheet
 */
+.arb-form {
+	width: 500px;
+	margin: 0 auto;
+	background: #ddd;
+	overflow: hidden;
+}
+
+.form-title {
+	display: block;
+	padding: 10px 18px;
+	font-weight: bold;
+	text-transform: capitalize;
+	margin-bottom: 10px;
+	background: #bcbcbc;
+}
+
+.form-group {
+	margin: 10px 0;
+	padding: 10px;
+}
+
+.form-group label {
+	display: inline-block;
+	padding: 5px 7px;
+	min-width: 120px;
+	text-transform: capitalize;
+}
+
+.type-text, .type-textarea, .type-select {
+	display: inline-block;
+	padding: 5px 7px;
+	border: 1px solid #bcbcbc;
+}
+
+.type-radio, .type-checkbox {
+	display: inline-block;
+}
+
+#type-submit {
+	display: block;
+	border: 1px solid #333;
+	padding: 7px 25px;
+	background: #444;
+	margin: 16px;
+	color: #eee;
+}
